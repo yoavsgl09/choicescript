@@ -1,3 +1,4 @@
-nav = new SceneNavigator(["startup"]);
-stats = {};
-
+monkey.jpeg
+monkey.jpeg
+tigress.jpeg
+unicorn.jpeg
